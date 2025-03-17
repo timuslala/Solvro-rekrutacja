@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+helpers/__init__.py
+helpers/clustering.py
+helpers/ingredients.py
+solvro_rekrutacja.egg-info/PKG-INFO
+solvro_rekrutacja.egg-info/SOURCES.txt
+solvro_rekrutacja.egg-info/dependency_links.txt
+solvro_rekrutacja.egg-info/requires.txt
+solvro_rekrutacja.egg-info/top_level.txt

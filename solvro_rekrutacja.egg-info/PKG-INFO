@@ -1,0 +1,52 @@
+Metadata-Version: 2.2
+Name: solvro_rekrutacja
+Version: 0.1.0
+Summary: Klasteryzacja koktajli zrobiona na rekrutacje do koła naukowego Solvro
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: ipykernel>=6.29.5
+Requires-Dist: jupyter>=1.1.1
+Requires-Dist: matplotlib>=3.10.1
+Requires-Dist: pandas>=2.2.3
+Requires-Dist: requests>=2.32.3
+Requires-Dist: rich>=13.9.4
+Requires-Dist: scikit-learn>=1.6.1
+Requires-Dist: seaborn>=0.13.2
+
+<div align="center">
+    <img src="./assets/logo.png" width="40%" />
+</div>
+
+# Zadanie rekrutacyjne KN Solvro
+
+#### W ramach rekrutacji stworzyliśmy zadania z różnych kategorii:
+---
+  - [Frontend](./frontend.md)
+  - [Mobile](./mobile.md)
+  - [Backend](./backend.md)
+  - [DevOps](./devops.md)
+  - [UI/UX designer](./uiux.design.md)
+  - [Project Manager](./projectmanager.md)
+  - [Social Media](./socialmedia.md)
+  - [Machine Learning](./machine_learning.md)
+--- 
+
+#### Motyw
+Motywem rekrutacji są koktajle. Istnieje ich wiele, a przez życie studenckie wielu z nich spóbujemy, ale żeby receptury ich przygotowania nie zanikły przygotujmy wspólnie rozwiązanie do ich przechowywania i przeglądania. Każdy koktajl posiada instrukcje i składniki wraz z ilościami użycia. W działalności KN Solvro każda sekcja ma istotny wpływ na powodzenie całego projektu, którego potem prezentujemy społeczności studenckiej. Tak samo przy tym zadaniu, każda sekcja skupia się na swojej części, z których potem powstaje spójna całość.
+
+#### Kontakt
+W razie jakichkoliwek pytań skontaktuj się z nami, chętnie pomożemy i odpowiemy.
+- Facebook: https://www.facebook.com/knsolvro/
+- Strona: https://solvro.pwr.edu.pl/
+- Email: [kn.solvro@pwr.edu.pl](mailto:kn.solvro@pwr.edu.pl)
+
+Jeśli nie znalazłeś obaszaru swoich zainteresowań napisz do nas, a na pewno coś się dla ciebie znajdzie!
+
+#### Odsyłanie zadań
+Linki do gotowych zadań powinny zostać odesłane za pomocą formularza https://forms.gle/b8EekiFMyUxMR7Lk8.
+
+#### Linki
+
+[![docs.solvro.pl](https://i.imgur.com/fuV0gra.png)](https://docs.solvro.pl)
+
+**Powodzenia!**
